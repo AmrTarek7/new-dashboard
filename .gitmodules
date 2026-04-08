@@ -1,3 +1,6 @@
+# git clone --recurse-submodules <repo>
+# git submodule update --init --recursive
 [submodule "src/assets"]
 	path = src/assets
 	url = https://github.com/cetincakiroglu/sakai-assets
+
